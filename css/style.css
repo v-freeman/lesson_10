@@ -129,7 +129,7 @@ body {
 
 /*==platform==================================*/
 .platform {
-	background-image: url("/img/bag-blue.svg");
+	background-image: url("..15/img/bag-blue.svg");
 	background-repeat: no-repeat;
 	margin: 200px 0;
 	color: #fff;
