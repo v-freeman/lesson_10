@@ -197,7 +197,7 @@ body {
 	left: -95px;
 	width: 213.764px;
 	height: 472.16px;
-	background-image: url(../img/dotted.svg);
+	background-image: url("../img/dotted.svg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	z-index: 1;
