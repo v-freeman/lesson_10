@@ -129,7 +129,7 @@ body {
 
 /*==platform==================================*/
 .platform {
-	background-image: url("..15/img/bag-blue.svg");
+	background-image: url("../img/bag-blue.svg");
 	background-repeat: no-repeat;
 	margin: 200px 0;
 	color: #fff;
@@ -173,7 +173,7 @@ body {
 	left: -129px;
 	width: 65px;
 	height: 65px;
-	background-image: url("/img/ellipse.svg");
+	background-image: url("../img/ellipse.svg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	z-index: 1;
@@ -197,7 +197,7 @@ body {
 	left: -95px;
 	width: 213.764px;
 	height: 472.16px;
-	background-image: url(/img/dotted.svg);
+	background-image: url(../img/dotted.svg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	z-index: 1;
@@ -254,7 +254,7 @@ body {
 	right: 273px;
 	width: 65px;
 	height: 65px;
-	background-image: url("/img/ellipse.svg");
+	background-image: url("../img/ellipse.svg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	z-index: 3;
@@ -277,7 +277,7 @@ body {
 	width: 213.764px;
 	height: 472.16px;
 	transform: rotate(-90deg);
-	background-image: url("/img/bottom_point_group.svg");
+	background-image: url("../img/bottom_point_group.svg");
 	background-repeat: no-repeat;
 	z-index: 1;
 }
